@@ -1,5 +1,5 @@
 
-# this is the fibonacci serie
+# this is the fibonacci serie inplemented to work in risc-v processor
 
 	.text
 
