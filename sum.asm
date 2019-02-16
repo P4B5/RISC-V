@@ -9,8 +9,6 @@ str: .asciz "the result is: "
 
 main:
 
-	
-	
 
 	li a7, 5    #INTRODUCE THE FIRST NUMBER
 	ecall
@@ -30,7 +28,4 @@ main:
 	li a7, 1
 	ecall
 	
-	
-	
-
 	
